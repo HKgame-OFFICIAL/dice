@@ -1,9 +1,20 @@
-## dice.py
+# My first project
 Just a simple if-else program
 
-Just made using basics of random and if-else
+Works with python3.6 or above
 
-To access it
-[Download the zip](https://github.com/HKgame-OFFICIAL/dice.py/archive/refs/heads/main.zip) file and extract it and run **python dice.py**
+Just made using basics of random and if-elif
 
-For CLI use **git clone https://github.com/HKgame-OFFICIAL/dice.py.git**
+# To access it 
+
+## For Non-CLI users
+
+[Download the zip file](https://github.com/HKgame-OFFICIAL/dice_py/archive/refs/heads/main.zip) and extract it and run `python dice.py` or just double click it
+
+## For CLI users
+
+`git clone https://github.com/HKgame-OFFICIAL/dice_py.git`
+
+`cd dice_py`
+
+`python dice.py`
