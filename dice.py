@@ -2,7 +2,7 @@ import random
 import keyboard
 import time
 def dice():
-    print("this dice simulations are created by HK")
+    print("this dice simulation are created by HK")
     while True:
         print('Rolling the dice Please wait...')
         time.sleep(0.3)
